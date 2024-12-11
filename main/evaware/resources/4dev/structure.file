@@ -1,0 +1,21 @@
+Evaware-installer/
+└── main/
+    └── evaware/
+        ├── console/
+        │   ├── DownloadAnim.py
+        │   ├── ExitHandler.py
+        │   ├── AboutEvaware.py
+        │   └── MainMenu.py
+        ├── installer/
+        │   ├── VersionInstaller.py
+        │   └── ExeInstaller.py
+        ├── utils/
+        │   ├── InternetChecker.py
+        │   ├── ExeRunner.py
+        │   └── GraphicsData.py
+        └── resources/
+            ├── icon.ico
+            └── 4dev/
+                └── req.txt
+
+IF YOU DECOMPILED THIS PYTHON PROJECT AND WANNA CONTACT ME MY DISCORD - mioclient
